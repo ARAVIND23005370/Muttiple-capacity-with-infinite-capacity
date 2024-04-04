@@ -1,5 +1,5 @@
 ## NAME: ARAVIND R
-## REGISTER NUMBER:212223220019
+## REGISTER NUMBER:212223230019
 
 
 # Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
